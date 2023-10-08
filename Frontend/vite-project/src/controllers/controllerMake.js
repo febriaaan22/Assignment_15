@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:3000'
+const apiUrl = 'https://tiny-pear-chimpanzee-garb.cyclic.app'
 
 const fetchControllerGet = async () => {
 		try {
